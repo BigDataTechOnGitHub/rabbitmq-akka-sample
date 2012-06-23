@@ -1,0 +1,1 @@
+proof-of-concept: sample for assigning tasks from a rabbitmq queue to akka actors
